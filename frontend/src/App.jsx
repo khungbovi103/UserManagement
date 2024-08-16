@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import SignUpForm from "./components/signup-form.component";
+import React from "react";
 import UserTable from "./components/list-user.component";
 
 function App() {
